@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
+    "jquery": "^3.7.0",
+    "jsdom": "^22.1.0",
+    "mongoose": "^6.11.2"
+  },
+  "name": "doge-bot",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

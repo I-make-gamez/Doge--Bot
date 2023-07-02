@@ -1,0 +1,22 @@
+{
+    "community": {
+        "ping": {
+            "name": "/ping",
+            "description": "Replies with \"pong\""
+        },
+        "poll": {
+            "name": "/poll",
+            "description": "Creates a poll for users to interact with"
+        },
+        "quote": {
+            "name": "/quote",
+            "description": "Gives you a random quote"
+        }
+    },
+    "moderation": {
+        "reactor": {
+            "name": "/reactor",
+            "description": "Used to setup auto reactions"
+        }
+    }
+}
